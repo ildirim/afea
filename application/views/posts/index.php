@@ -13,7 +13,7 @@
 	<link rel="stylesheet" type="text/css" href="<?= base_url('assets/css/style.css');?>">
 	<link href="<?= base_url('/assets/css/bootstrap.min.css'); ?>" rel="stylesheet">
 
-	<title> Afea Group </title>
+	<title> Afea Groupsdasdasd </title>
 
 	<!-- <script src="<?= base_url();?>/jquery-3.4.1.min.js"></script> -->
 	<script src="<?= base_url();?>assets/js/bootstrap.min.js"></script>
