@@ -30,10 +30,10 @@
 	    <table class="table table-bordered">
 	        <thead>
 	            <tr>
-	                <th>Başlıq</th>
-	                <th>Məzmun</th>
+	                <th>Başlasdıq</th>
+	                <th>Məasdzmun</th>
 	                <th>Etiketlər</th>
-	                <th>Şəkil</th>
+	                <th>Şəkiasdl</th>
 	                <th>Tarix</th>
 	            </tr>
 	        </thead>
